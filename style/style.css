@@ -1,0 +1,41 @@
+a {
+    color: white !important;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: #9c9c9c !important;
+}
+
+#logo {
+    color: black;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+header {
+    background-color: #555555 !important;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+}
+
+#addVideo {
+    width: 900px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#descriptionText {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+#logoText:hover{
+color: white !important;
+}
