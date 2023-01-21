@@ -31,11 +31,19 @@ header {
     display: block
 }
 
-#descriptionText {
-    margin-left: auto;
-    margin-right: auto;
-    display: block
-}
 #logoText:hover{
 color: white !important;
+}
+#descriptionTitle{
+    font-weight: bold;
+}
+#descriptionText{
+    font-size: larger;
+    padding-top: 5%;
+    margin-left: 15%;
+}
+#active{
+    text-decoration: underline;
+    text-decoration-color: #A5A5A5;
+    text-decoration-thickness: 5px;
 }
