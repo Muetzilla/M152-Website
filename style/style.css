@@ -31,19 +31,66 @@ header {
     display: block
 }
 
-#logoText:hover{
-color: white !important;
+#logoText:hover {
+    color: white !important;
 }
-#descriptionTitle{
+
+#descriptionTitle {
     font-weight: bold;
 }
-#descriptionText{
+
+#descriptionText {
     font-size: larger;
     padding-top: 5%;
     margin-left: 15%;
 }
-#active{
+
+#active {
     text-decoration: underline;
     text-decoration-color: #A5A5A5;
     text-decoration-thickness: 5px;
+}
+
+footer {
+    background-color: #9C9C9C;
+    height: 5%;
+}
+
+#title {
+    text-align: center;
+    padding-top: 2%;
+    font-weight: bold !important;
+    color: black !important;
+}
+
+
+h2 {
+    text-align: center;
+    padding-top: 2%;
+    color: black !important;
+}
+
+#mainContent {
+    display: inline-block;
+}
+
+#imageiphone13mini {
+    display: inline-block !important;
+    width: 300px;
+    height: 350px;
+}
+
+#descriptionForImage {
+    display: inline-block !important;
+}
+
+#technicalDetailsTable {
+    margin-left: 20%;
+    max-width: 50%;
+}
+
+.titleTextTable {
+    font-weight: bold;
+    color: black !important;
+
 }
