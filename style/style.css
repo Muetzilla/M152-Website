@@ -119,8 +119,8 @@ h2 {
 }
 
 .comapreIphonesImage {
-    width: 300px;
-    height: 320px;
+    width: 45%;
+    height: 50%;
 }
 
 .compareModelTable {
@@ -144,4 +144,14 @@ h2 {
     font-weight: bold;
     font-size: medium;
     color: black !important;
+}
+
+#imageIphone14 {
+    width: 45%;
+    height: 50%;
+}
+
+#imageIphone12mini {
+    width: 45%;
+    height: 50%;
 }
