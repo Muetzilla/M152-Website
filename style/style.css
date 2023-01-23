@@ -68,10 +68,13 @@ h2 {
     text-align: center;
     padding-top: 2%;
     color: black !important;
+
 }
 
 #mainContent {
     display: inline-block;
+    font-size: medium;
+
 }
 
 #imageiphone13mini {
@@ -87,6 +90,7 @@ h2 {
 #technicalDetailsTable {
     margin-left: 20%;
     max-width: 50%;
+    font-size: medium;
 }
 
 .titleTextTable {
