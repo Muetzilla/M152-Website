@@ -1,11 +1,11 @@
-a {
+.navbarLinks {
     color: white !important;
     padding: 1em 1.5em;
     text-decoration: none;
     text-transform: uppercase;
 }
 
-a:hover {
+.navbarLinks:hover {
     color: #9c9c9c !important;
 }
 
@@ -158,9 +158,23 @@ h2 {
 }
 
 footer{
-    height: 100%;
+    height: 100px;
 }
 #impressumLink{
-    padding-top:5%;
-    padding-bottom: 5%;
+    margin-top: 50px !important;
+    padding-top: 50px !important;
+    color: white !important;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: middle ;
+    font-size: 12px;
+}
+
+#impressumContent{
+    font-size: large;
+}
+.impressumTitle{
+    font-weight: bold;
+    color: black !important;
 }
