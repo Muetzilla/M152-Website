@@ -156,3 +156,11 @@ h2 {
     width: 45%;
     height: 50%;
 }
+
+footer{
+    height: 100%;
+}
+#impressumLink{
+    padding-top:5%;
+    padding-bottom: 5%;
+}
